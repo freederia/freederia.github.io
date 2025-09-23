@@ -6,7 +6,7 @@ While the world focuses on scaling AI with more data, we focus on providing a be
 
 This repository serves as an open-source gateway to our vast archive. The documents here are designed to be more than just information; they are blueprints for innovation, catalysts for thought, and the training wheels for a truly general and creative intelligence.
 
-**Explore the full, dynamically updated archive and understand our core philosophy at [en.freederia.com](https://freederia.com).** 
+**Explore the full, dynamically updated archive and understand our core philosophy at [freederia.com](https://freederia.com).** 
 
 
 
